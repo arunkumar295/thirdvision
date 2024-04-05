@@ -49,6 +49,9 @@ h1{
     line-height: 80px;
     font-weight: 700;
 }
+.text-green {
+    color:#41f681 ;
+}
 h2{
     font-size: 44px;
     line-height: 50px;
@@ -382,7 +385,7 @@ header{
 /* Home Page Statistics Section Style */
 
 .statistics_section {
-    background-color: var(--e-global-color-bright-blue);
+    background-color: #000000;
     padding: 110px 0;
     overflow: hidden;
 }
@@ -395,7 +398,7 @@ header{
     color: var(--e-global-color-white);
 }
 .statistics_section .statistics_box {
-    background-color: #4229d6;
+    background-color: #212529;
     padding: 38px 40px 35px 39px;
     border-radius: 20px;
     position: relative;
