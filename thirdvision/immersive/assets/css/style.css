@@ -1059,6 +1059,7 @@ header{
 .accordian-section .accordion-card button.btn.btn-link.collapsed {
     color: var(--e-global-color-white);
     border-radius: 15px;
+    height: 160px;
 }
 .accordian-section .accordian-inner .card-header {
     padding: 0;
@@ -1977,4 +1978,11 @@ header{
 }
 .txt-gray {
     color: var(--e-global-color-text);
+}
+@media only screen and (max-width: 767px) {
+.accordian-section .accordion-card button.btn.btn-link.collapsed {
+    color: var(--e-global-color-white);
+    border-radius: 15px;
+    height: 120px !important;
+}
 }
