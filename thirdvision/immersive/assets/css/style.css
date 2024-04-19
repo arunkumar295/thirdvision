@@ -1986,3 +1986,6 @@ header{
     height: 120px !important;
 }
 }
+.aboutus_main_image img {
+    width: 400px ;
+}

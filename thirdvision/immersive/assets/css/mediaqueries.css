@@ -746,6 +746,9 @@
 }
 
 @media screen and (max-width: 991px){
+    .aboutus_main_image img {
+        width: 100% !important ;
+    }
     .navbar {
         padding: 20px 0;
     }
