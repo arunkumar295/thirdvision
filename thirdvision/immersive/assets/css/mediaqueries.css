@@ -45,6 +45,9 @@
 }
 
 @media screen and (max-width: 1199px){
+    .services_section .box4 {
+        top: -208px;
+    }
     .navbar {
         padding: 25px 0;
     }
@@ -746,6 +749,9 @@
 }
 
 @media screen and (max-width: 991px){
+    .services_section .box4 {
+        top: 0px;
+    }
     .aboutus_main_image img {
         width: 100% !important ;
     }

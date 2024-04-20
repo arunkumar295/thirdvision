@@ -489,9 +489,7 @@ header{
 .services_section .box3 {
     top: -138px;
 }
-.services_section .box4 {
-    top: -208px;
-}
+
 .services_section .services_box figure {
     margin-bottom: 34px;
 }
@@ -1868,7 +1866,7 @@ header{
     color: var(--e-global-color-secondary);
 }
 .contact_info_section .contact_info_form_content {
-    background-image: linear-gradient(33deg, var(--e-global-color-very-dark-black) 0%, var(--e-global-color-very-dark-grayish-blue) 100%);
+    background-image: var(--e-global-color-white);
     border-radius: 20px;
     padding: 62px 45px 55px 50px;
     width: 100%;
